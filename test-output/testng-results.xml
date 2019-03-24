@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21210" started-at="2019-03-24T06:04:58Z" finished-at="2019-03-24T06:05:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21210" started-at="2019-03-24T06:04:58Z" finished-at="2019-03-24T06:05:19Z">
+      <class name="com.automtionbasics.web.Amazonlaunch">
+        <test-method status="PASS" signature="applaunch()[pri:0, instance:com.automtionbasics.web.Amazonlaunch@4c70fda8]" name="applaunch" duration-ms="20154" started-at="2019-03-24T06:04:58Z" finished-at="2019-03-24T06:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applaunch -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.automtionbasics.web.Amazonlaunch@4c70fda8]" name="Teardown" is-config="true" duration-ms="995" started-at="2019-03-24T06:05:18Z" finished-at="2019-03-24T06:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.automtionbasics.web.Amazonlaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
